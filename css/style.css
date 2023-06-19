@@ -2292,3 +2292,16 @@ form textarea {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+header .navbar-brand h4 {
+  font-weight: bold;
+
+}
+header .navbar-brand h4 span {
+  color: red;
+
+  font-size: 20px;
+}
+footer .block img {
+  width: 200px;
+} 
